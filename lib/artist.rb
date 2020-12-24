@@ -1,6 +1,6 @@
 # Artist has many songs and genres, can add_song
 class Artist
-  attr_accessor :name, :song, :genre
+  attr_accessor :name
 
   @@all = []
 
